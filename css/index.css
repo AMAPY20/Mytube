@@ -98,6 +98,7 @@ time {
 .card .card-title {
   height: 50px;
   overflow: hidden;
+  color: #454d54;
 }
 .card:hover .fa-play {
   display: inline;
